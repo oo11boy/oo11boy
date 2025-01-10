@@ -59,6 +59,26 @@ You can contact me through my portfolio website which is available on my GitHub 
 <!-- wave effect -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
+# NEXT JS PROJECTS:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=next_movie_project)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=webunicode)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Sheypoor-Similar-ReactJs)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Bank-Appointment-Reservation-ReactJs)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Dashboard-CURD-NextJs)](https://github.com/anuraghazra/github-readme-stats)
+
+# REACT JS PROJECTS:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=instagram-CustomTshirt-cenemaTicket-and-TodoList)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=enshop)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Sheypoor-Similar-ReactJs)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Shop-Store-ReactJs)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Bank-Appointment-Reservation-ReactJs)](https://github.com/anuraghazra/github-readme-stats) 
+
+# NODE JS & API
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=nodejseshop)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=apishop)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=MovieApi)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=sheypoorapi)](https://github.com/anuraghazra/github-readme-stats) 
+
+# WORDPRESS PROJECTS
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=cafemenu)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
