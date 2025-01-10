@@ -56,39 +56,34 @@ You can contact me through my portfolio website which is available on my GitHub 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oo11boy&show_icons=true&theme=radical)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oo11boy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# 📊Code Time Stats :
+ <img style="width:60%;margin:auto" src="https://wakatime.com/share/@oo11boy/da160933-9a05-4bfe-ba80-cc95a5d8ceb7.svg" />   
+ 
 <!-- wave effect -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
-## NEXT JS PROJECTS
 
-| Project | Description |
-|---------|-------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=next_movie_project)](https://github.com/oo11boy/next_movie_project) | A movie project built with Next.js |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=webunicode)](https://github.com/oo11boy/webunicode) | Webunicode project built with Next.js |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Dashboard-CURD-NextJs)](https://github.com/oo11boy/Dashboard-CURD-NextJs) | Dashboard CRUD project built with Next.js |
+# NEXT JS PROJECTS:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=next_movie_project)](https://github.com/oo11boy/next_movie_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=webunicode)](https://github.com/oo11boy/webunicode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Dashboard-CURD-NextJs)](https://github.com/oo11boy/Dashboard-CURD-NextJs)
 
-## REACT JS PROJECTS
+# REACT JS PROJECTS:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=instagram-CustomTshirt-cenemaTicket-and-TodoList)](https://github.com/oo11boy/instagram-CustomTshirt-cenemaTicket-and-TodoList)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=enshop)](https://github.com/oo11boy/enshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Sheypoor-Similar-ReactJs)](https://github.com/oo11boy/Sheypoor-Similar-ReactJs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Shop-Store-ReactJs)](https://github.com/oo11boy/Shop-Store-ReactJs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Bank-Appointment-Reservation-ReactJs)](https://github.com/oo11boy/Bank-Appointment-Reservation-ReactJs)
 
-| Project | Description |
-|---------|-------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=instagram-CustomTshirt-cenemaTicket-and-TodoList)](https://github.com/oo11boy/instagram-CustomTshirt-cenemaTicket-and-TodoList) | Instagram, Custom T-shirt, Cinema Ticket, and TodoList projects built with React.js |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=enshop)](https://github.com/oo11boy/enshop) | Enshop project built with React.js |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Sheypoor-Similar-ReactJs)](https://github.com/oo11boy/Sheypoor-Similar-ReactJs) | Sheypoor Similar project built with React.js |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Shop-Store-ReactJs)](https://github.com/oo11boy/Shop-Store-ReactJs) | Shop Store project built with React.js |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Bank-Appointment-Reservation-ReactJs)](https://github.com/oo11boy/Bank-Appointment-Reservation-ReactJs) | Bank Appointment Reservation project built with React.js |
+# NODE JS & API:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=nodejseshop)](https://github.com/oo11boy/nodejseshop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=apishop)](https://github.com/oo11boy/apishop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=MovieApi)](https://github.com/oo11boy/MovieApi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=sheypoorapi)](https://github.com/oo11boy/sheypoorapi)
 
-## NODE JS & API
+# WORDPRESS (PHP) PROJECTS:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=cafemenu)](https://github.com/oo11boy/cafemenu)
 
-| Project | Description |
-|---------|-------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=nodejseshop)](https://github.com/oo11boy/nodejseshop) | Node.js Eshop project |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=apishop)](https://github.com/oo11boy/apishop) | API Shop project |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=MovieApi)](https://github.com/oo11boy/MovieApi) | Movie API project |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=sheypoorapi)](https://github.com/oo11boy/sheypoorapi) | Sheypoor API project |
 
-## WORDPRESS PROJECTS
-
-| Project | Description |
-|---------|-------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=cafemenu)](https://github.com/oo11boy/cafemenu) | Cafe Menu project built with WordPress |
 
