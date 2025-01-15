@@ -58,8 +58,9 @@ You can contact me through my portfolio website which is available on my GitHub 
 
 
 # 📊Code Time Stats :
- <img style="width:60%;margin:auto" src="https://wakatime.com/share/@oo11boy/da160933-9a05-4bfe-ba80-cc95a5d8ceb7.svg" />   
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- wave effect -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
