@@ -1,15 +1,30 @@
 name: WakaTime Readme
+
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # امکان اجرای دستی Workflow
   schedule:
-    - cron: '0 20 * * *'  # زمان به‌روزرسانی (هر روز ساعت 20:00 به وقت UTC)
+    - cron: '0 20 * * *'  # زمان‌بندی اجرای خودکار (هر روز ساعت 20:00 به وقت UTC)
+
 jobs:
   update-readme:
     name: Update README
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # استفاده از آخرین نسخه Ubuntu
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: athul/waka-readme@master
+      # مرحله ۱: چک‌اوت ریپازیتوری
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          COMMIT_MESSAGE: "Update WakaTime stats"
+          token: ${{ secrets.GH_TOKEN }}  # استفاده از توکن GitHub برای دسترسی
+
+      # مرحله ۲: دریافت آمار WakaTime و به‌روزرسانی README
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # کلید API WakaTime
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # توکن GitHub برای دسترسی به ریپازیتوری
+          COMMIT_MESSAGE: "Update WakaTime stats"  # پیام کامیت
+          SHOW_TITLE: true  # نمایش عنوان
+          SHOW_TIME: true  # نمایش زمان
+          SHOW_TOTAL: true  # نمایش زمان کلی
+          TIME_RANGE: last_7_days  # بازه زمانی (آخرین ۷ روز)
