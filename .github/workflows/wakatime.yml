@@ -31,4 +31,4 @@ jobs:
           SHOW_OS: true  # نمایش سیستم‌عامل‌های استفاده شده
           SHOW_PROJECTS: true  # نمایش پروژه‌های فعال
           SHOW_EDITORS: true  # نمایش ادیتورهای استفاده شده
-          TIME_RANGE: last_year  # نمایش آمار یک سال اخیر
+          TIME_RANGE: all_time  # نمایش آمار یک سال اخیر
