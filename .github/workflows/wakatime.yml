@@ -24,7 +24,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # کلید API WakaTime
           GH_TOKEN: ${{ secrets.GH_TOKEN }}  # توکن GitHub برای دسترسی به ریپازیتوری
           COMMIT_MESSAGE: "Update WakaTime stats"  # پیام کامیت
-          SHOW_TITLE: true  # نمایش عنوان
-          SHOW_TIME: true  # نمایش زمان
-          SHOW_TOTAL: true  # نمایش زمان کلی
-          TIME_RANGE: last_7_days  # بازه زمانی (آخرین ۷ روز)
+          SHOW_TITLE: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_LANGUAGES: true  # نمایش زبان‌های برنامه‌نویسی استفاده شده
+          SHOW_OS: true  # نمایش سیستم‌عامل‌های استفاده شده
+          SHOW_PROJECTS: true  # نمایش پروژه‌های فعال
+          SHOW_EDITORS: true  # نمایش ادیتورهای استفاده شده
+          TIME_RANGE: last_7_days
+
