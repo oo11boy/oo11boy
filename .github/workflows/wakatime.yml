@@ -2,7 +2,7 @@ name: WakaTime Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 20 * * *' 
+    - cron: '0 20 * * *'  # زمان به‌روزرسانی (هر روز ساعت 20:00 به وقت UTC)
 jobs:
   update-readme:
     name: Update README
