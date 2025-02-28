@@ -61,7 +61,7 @@ You can contact me through my portfolio website which is available on my GitHub 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2025 - To: 25 February 2025
+From: 08 January 2025 - To: 27 February 2025
 
 Total Time: 53 hrs 30 mins
 
