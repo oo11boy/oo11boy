@@ -79,9 +79,9 @@ HTML            4 hrs 29 mins   ▓░░░░░░░░░░░░░░░
 
 
 # NEXT JS PROJECTS:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=movieseries)](https://github.com/oo11boy/movieseries)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=javaheratpack-shop)](https://github.com/oo11boy/javaheratpack-shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=ziboland)](https://github.com/oo11boy/ziboland)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=movieseries)](https://github.com/oo11boy/movieseries)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=next_movie_project)](https://github.com/oo11boy/next_movie_project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=webunicode)](https://github.com/oo11boy/webunicode)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Dashboard-CURD-NextJs)](https://github.com/oo11boy/Dashboard-CURD-NextJs)
