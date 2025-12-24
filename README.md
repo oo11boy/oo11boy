@@ -61,15 +61,15 @@ You can contact me through my portfolio website which is available on my GitHub 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2025 - To: 22 December 2025
+From: 08 January 2025 - To: 23 December 2025
 
-Total Time: 443 hrs 53 mins
+Total Time: 446 hrs 11 mins
 
-TypeScript        311 hrs 32 mins █████████████████▒░░░░░░░   69.61 %
-JavaScript        68 hrs 46 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.37 %
-CSS               19 hrs 40 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-PHP               14 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-HTML              8 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript        313 hrs 24 mins █████████████████▒░░░░░░░   69.67 %
+JavaScript        68 hrs 49 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+CSS               19 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+PHP               14 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+HTML              8 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
