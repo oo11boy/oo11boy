@@ -1,0 +1,24 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # هر روز ساعت 00:00 UTC اجرا می‌شود
+  workflow_dispatch: {}    # امکان اجرای دستی از تب Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: oo11boy
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_repos: ""
+          exclude_langs: ""
+          # فایل‌های خروجی در پوشه generated/ ساخته و در همان ریپازیتوری کامیت می‌شوند
