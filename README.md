@@ -53,16 +53,8 @@ You can contact me through my portfolio website which is available on my GitHub 
 </div>
  
 # 📊GitHub Stats :
-<!--
-این بخش دیگر به github-readme-stats.vercel.app وابسته نیست.
-تصاویر زیر توسط ورک‌فلوی .github/workflows/stats.yml به‌صورت خودکار
-و به‌عنوان فایل SVG داخل همین ریپازیتوری (پوشه‌ی generated/) ساخته می‌شوند،
-پس هیچ درخواستی به vercel.app ارسال نمی‌شود و مشکل فیلتر/بلاک شدن برطرف است.
-بعد از اولین اجرای Action (از تب Actions می‌توانید دستی هم اجرا کنید)
-این دو خط به‌درستی نمایش داده خواهند شد.
--->
-![](./generated/overview.svg)
-![](./generated/languages.svg)
+[![oo11boy's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=oo11boy&show_icons=true&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oo11boy&layout=compact&theme=radical)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 
 # 📊Code Time Stats :
