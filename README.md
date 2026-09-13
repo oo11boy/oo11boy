@@ -53,8 +53,16 @@ You can contact me through my portfolio website which is available on my GitHub 
 </div>
  
 # 📊GitHub Stats :
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oo11boy&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oo11boy&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+این بخش دیگر به github-readme-stats.vercel.app وابسته نیست.
+تصاویر زیر توسط ورک‌فلوی .github/workflows/stats.yml به‌صورت خودکار
+و به‌عنوان فایل SVG داخل همین ریپازیتوری (پوشه‌ی generated/) ساخته می‌شوند،
+پس هیچ درخواستی به vercel.app ارسال نمی‌شود و مشکل فیلتر/بلاک شدن برطرف است.
+بعد از اولین اجرای Action (از تب Actions می‌توانید دستی هم اجرا کنید)
+این دو خط به‌درستی نمایش داده خواهند شد.
+-->
+![](./generated/overview.svg)
+![](./generated/languages.svg)
 
 
 # 📊Code Time Stats :
@@ -79,28 +87,25 @@ JSON              10 hrs 58 mins        ▒░░░░░░░░░░░░�
 
 
 # NEXT JS PROJECTS:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=movieseries)](https://github.com/oo11boy/movieseries)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=javaheratpack-shop)](https://github.com/oo11boy/javaheratpack-shop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=ziboland)](https://github.com/oo11boy/ziboland)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=next_movie_project)](https://github.com/oo11boy/next_movie_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=webunicode)](https://github.com/oo11boy/webunicode)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Dashboard-CURD-NextJs)](https://github.com/oo11boy/Dashboard-CURD-NextJs)
+- [movieseries](https://github.com/oo11boy/movieseries)
+- [javaheratpack-shop](https://github.com/oo11boy/javaheratpack-shop)
+- [ziboland](https://github.com/oo11boy/ziboland)
+- [next_movie_project](https://github.com/oo11boy/next_movie_project)
+- [webunicode](https://github.com/oo11boy/webunicode)
+- [Dashboard-CURD-NextJs](https://github.com/oo11boy/Dashboard-CURD-NextJs)
 
 # REACT JS PROJECTS:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=instagram-CustomTshirt-cenemaTicket-and-TodoList)](https://github.com/oo11boy/instagram-CustomTshirt-cenemaTicket-and-TodoList)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=enshop)](https://github.com/oo11boy/enshop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Sheypoor-Similar-ReactJs)](https://github.com/oo11boy/Sheypoor-Similar-ReactJs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Shop-Store-ReactJs)](https://github.com/oo11boy/Shop-Store-ReactJs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=Bank-Appointment-Reservation-ReactJs)](https://github.com/oo11boy/Bank-Appointment-Reservation-ReactJs)
+- [instagram-CustomTshirt-cenemaTicket-and-TodoList](https://github.com/oo11boy/instagram-CustomTshirt-cenemaTicket-and-TodoList)
+- [enshop](https://github.com/oo11boy/enshop)
+- [Sheypoor-Similar-ReactJs](https://github.com/oo11boy/Sheypoor-Similar-ReactJs)
+- [Shop-Store-ReactJs](https://github.com/oo11boy/Shop-Store-ReactJs)
+- [Bank-Appointment-Reservation-ReactJs](https://github.com/oo11boy/Bank-Appointment-Reservation-ReactJs)
 
 # NODE JS & API:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=nodejseshop)](https://github.com/oo11boy/nodejseshop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=apishop)](https://github.com/oo11boy/apishop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=MovieApi)](https://github.com/oo11boy/MovieApi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=sheypoorapi)](https://github.com/oo11boy/sheypoorapi)
+- [nodejseshop](https://github.com/oo11boy/nodejseshop)
+- [apishop](https://github.com/oo11boy/apishop)
+- [MovieApi](https://github.com/oo11boy/MovieApi)
+- [sheypoorapi](https://github.com/oo11boy/sheypoorapi)
 
 # WORDPRESS (PHP) PROJECTS:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oo11boy&repo=cafemenu)](https://github.com/oo11boy/cafemenu)
-
-
-
+- [cafemenu](https://github.com/oo11boy/cafemenu)
