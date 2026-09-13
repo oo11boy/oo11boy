@@ -59,19 +59,6 @@ You can contact me through my portfolio website which is available on my GitHub 
 
 # 📊Code Time Stats :
 <!--START_SECTION:waka-->
-
-```txt
-From: 08 January 2025 - To: 11 September 2026
-
-Total Time: 657 hrs 45 mins
-
-TypeScript        507 hrs 55 mins       ███████████████████▒░░░░░   76.71 %
-JavaScript        70 hrs 33 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-CSS               21 hrs 24 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-PHP               14 hrs 27 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-JSON              10 hrs 58 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-```
-
 <!--END_SECTION:waka-->
 
 <!-- wave effect -->
@@ -79,25 +66,25 @@ JSON              10 hrs 58 mins        ▒░░░░░░░░░░░░�
 
 
 # NEXT JS PROJECTS:
-- [movieseries](https://github.com/oo11boy/movieseries)
-- [javaheratpack-shop](https://github.com/oo11boy/javaheratpack-shop)
-- [ziboland](https://github.com/oo11boy/ziboland)
-- [next_movie_project](https://github.com/oo11boy/next_movie_project)
-- [webunicode](https://github.com/oo11boy/webunicode)
-- [Dashboard-CURD-NextJs](https://github.com/oo11boy/Dashboard-CURD-NextJs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=movieseries)](https://github.com/oo11boy/movieseries)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=javaheratpack-shop)](https://github.com/oo11boy/javaheratpack-shop)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=ziboland)](https://github.com/oo11boy/ziboland)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=next_movie_project)](https://github.com/oo11boy/next_movie_project)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=webunicode)](https://github.com/oo11boy/webunicode)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=Dashboard-CURD-NextJs)](https://github.com/oo11boy/Dashboard-CURD-NextJs)
 
 # REACT JS PROJECTS:
-- [instagram-CustomTshirt-cenemaTicket-and-TodoList](https://github.com/oo11boy/instagram-CustomTshirt-cenemaTicket-and-TodoList)
-- [enshop](https://github.com/oo11boy/enshop)
-- [Sheypoor-Similar-ReactJs](https://github.com/oo11boy/Sheypoor-Similar-ReactJs)
-- [Shop-Store-ReactJs](https://github.com/oo11boy/Shop-Store-ReactJs)
-- [Bank-Appointment-Reservation-ReactJs](https://github.com/oo11boy/Bank-Appointment-Reservation-ReactJs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=instagram-CustomTshirt-cenemaTicket-and-TodoList)](https://github.com/oo11boy/instagram-CustomTshirt-cenemaTicket-and-TodoList)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=enshop)](https://github.com/oo11boy/enshop)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=Sheypoor-Similar-ReactJs)](https://github.com/oo11boy/Sheypoor-Similar-ReactJs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=Shop-Store-ReactJs)](https://github.com/oo11boy/Shop-Store-ReactJs)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=Bank-Appointment-Reservation-ReactJs)](https://github.com/oo11boy/Bank-Appointment-Reservation-ReactJs)
 
 # NODE JS & API:
-- [nodejseshop](https://github.com/oo11boy/nodejseshop)
-- [apishop](https://github.com/oo11boy/apishop)
-- [MovieApi](https://github.com/oo11boy/MovieApi)
-- [sheypoorapi](https://github.com/oo11boy/sheypoorapi)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=nodejseshop)](https://github.com/oo11boy/nodejseshop)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=apishop)](https://github.com/oo11boy/apishop)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=MovieApi)](https://github.com/oo11boy/MovieApi)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=sheypoorapi)](https://github.com/oo11boy/sheypoorapi)
 
 # WORDPRESS (PHP) PROJECTS:
-- [cafemenu](https://github.com/oo11boy/cafemenu)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=oo11boy&repo=cafemenu)](https://github.com/oo11boy/cafemenu)
